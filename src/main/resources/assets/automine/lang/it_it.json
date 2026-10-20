@@ -1,0 +1,19 @@
+{
+  "key.automine.toggle": "Attiva/Disattiva AutoMine",
+  "key.automine.gui": "Apri menu AutoMine",
+  "automine.title": "AutoMine - scegli i blocchi da scavare",
+  "automine.search": "Cerca blocco...",
+  "automine.clear": "Pulisci",
+  "automine.ores": "Solo minerali",
+  "automine.tool_protect": "Protezione attrezzo: %s",
+  "automine.state": "AutoMine: %s",
+  "automine.close": "Chiudi",
+  "automine.selected": "Selezionati: %s",
+  "automine.on": "ON",
+  "automine.off": "OFF",
+  "automine.msg.on": "AutoMine attivato",
+  "automine.msg.off": "AutoMine disattivato",
+  "automine.msg.no_blocks": "Nessun blocco selezionato: usa /automine per sceglierli.",
+  "automine.msg.low_tool": "AutoMine in pausa: l'attrezzo sta per rompersi.",
+  "automine.msg.status": "AutoMine e' %s - %s blocchi selezionati"
+}

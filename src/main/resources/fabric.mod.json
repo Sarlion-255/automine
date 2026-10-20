@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "automine",
+  "version": "${version}",
+  "name": "AutoMine",
+  "description": "Scavi automaticamente i blocchi che scegli: basta guardarli. Comandi: /automine, /automine on, /automine off.",
+  "authors": ["You"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.automine.AutoMineClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

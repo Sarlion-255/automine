@@ -1,0 +1,19 @@
+{
+  "key.automine.toggle": "Toggle AutoMine",
+  "key.automine.gui": "Open AutoMine menu",
+  "automine.title": "AutoMine - choose blocks to mine",
+  "automine.search": "Search block...",
+  "automine.clear": "Clear",
+  "automine.ores": "Ores only",
+  "automine.tool_protect": "Tool protection: %s",
+  "automine.state": "AutoMine: %s",
+  "automine.close": "Close",
+  "automine.selected": "Selected: %s",
+  "automine.on": "ON",
+  "automine.off": "OFF",
+  "automine.msg.on": "AutoMine enabled",
+  "automine.msg.off": "AutoMine disabled",
+  "automine.msg.no_blocks": "No blocks selected: use /automine to pick some.",
+  "automine.msg.low_tool": "AutoMine paused: your tool is about to break.",
+  "automine.msg.status": "AutoMine is %s - %s blocks selected"
+}
